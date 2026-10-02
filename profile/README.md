@@ -10,7 +10,6 @@ We place software engineers with teams in Portugal and across Europe: developmen
 
 - **IT outsourcing:** engineers and teams for projects in Portugal and abroad.
 - **Nearshore staffing:** vetted engineers who integrate with your team and time zone.
-- **Technical recruitment:** sourcing, technical validation and shortlisting.
 
 ## Where we work
 
